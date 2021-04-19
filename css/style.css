@@ -1,0 +1,72 @@
+.container{
+    width: 1200px;
+    margin: auto;
+}
+
+header{
+    background-color: rgb(64, 175, 219);
+    background-image: url('img/pattern.png');
+    height: 70px;
+    width: 100%;
+}
+
+#logo{
+    height: 30px;
+}
+
+.titolo > p{
+    color: grey;
+}
+
+#ScrittoDa{
+    color: rgb(64, 175, 219);
+}
+
+.didascalie{
+    font-size: 4px;
+}
+
+ul{
+    list-style-type: disc;
+    padding-left: 0;       
+    margin-left: 15px;        
+}
+
+.tabella{
+    width: 100%;
+    border: none;    
+}
+
+thead{
+    background-color: rgb(64, 175, 219);
+}
+
+#trcolorato{
+    background-color: rgb(163, 219, 233);
+}
+
+#testoevidenziato{
+    background-color: yellow;
+}
+
+.footer > h3{
+    color: grey;
+}
+
+.immaginefooter1{
+    background-image: url('img/monitor.jpg');
+    width: 312px;
+    height: 208px;
+}
+
+.immaginefooter2{
+    background-image: url('img/graph.jpg');
+    width: 312px;
+    height: 208px;    
+}
+
+.testoimmaginefooter{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
