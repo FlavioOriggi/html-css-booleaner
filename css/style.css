@@ -5,7 +5,7 @@
 
 header{
     background-color: rgb(64, 175, 219);
-    background-image: url('img/pattern.png');
+    background-image: url('../img/pattern.png');
     height: 70px;
     width: 100%;
 }
@@ -54,13 +54,13 @@ thead{
 }
 
 .immaginefooter1{
-    background-image: url('img/monitor.jpg');
+    background-image: url('../img/monitor.jpg');
     width: 312px;
     height: 208px;
 }
 
 .immaginefooter2{
-    background-image: url('img/graph.jpg');
+    background-image: url('../img/graph.jpg');
     width: 312px;
     height: 208px;    
 }
